@@ -1,0 +1,9 @@
+# Para criar ambiente em python
+python -m venv env
+
+# iniciar
+.\env\Scripts\Activate.ps1
+.\env\Scripts\activate
+
+# desativar
+deactivate
